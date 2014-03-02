@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DA344381-59F0-41EF-901C-DBDE0A597112</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AdfurikunMediationSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CBB30E71-015F-4C93-B103-D4924CF6DFA0</key>
+		<string>https://github.com/masakihirokawa/objc-adfurikun-mediation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AdfurikunMediationSample/AdfurikunMediationSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CBB30E71-015F-4C93-B103-D4924CF6DFA0</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/masakihirokawa/objc-adfurikun-mediation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CBB30E71-015F-4C93-B103-D4924CF6DFA0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CBB30E71-015F-4C93-B103-D4924CF6DFA0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>objc-adfurikun-mediation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
