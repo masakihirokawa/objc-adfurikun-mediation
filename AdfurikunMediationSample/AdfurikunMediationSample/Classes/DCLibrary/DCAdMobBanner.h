@@ -8,7 +8,7 @@
 #import <Foundation/Foundation.h>
 #import "GADBannerView.h"
 
-#define GAD_UNIT_ID @"ca-app-pub-0667784050147760/1429275028"
+#define GAD_UNIT_ID @"ここに AdMobの「広告ユニットID」を入力してください"
 
 @interface DCAdMobBanner : NSObject
 
